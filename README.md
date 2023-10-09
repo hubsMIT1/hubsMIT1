@@ -1,6 +1,6 @@
 [![MasterHead](https://www.allthingsdistributed.com/images/blockchain-banner.jpg)](https://hubsMIT1.io)
 <!-- <img  align="right" alt="Coding"  width="400"src="https://www.allthingsdistributed.com/images/blockchain-banner.jpg" -->
-<h1 align="center">Hi, I'm ShivAnand 👋</h1>
+<h1 align="center">Hi, I'm ShivA 👋</h1>
 <h3 align="center">Web Developer | App Developer 🔰</h3>
 
 <!--      "https://i.gifer.com/HaD1.gif" > -->
