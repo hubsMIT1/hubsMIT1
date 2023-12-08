@@ -11,7 +11,7 @@ DSA, MERN, Flask, React-Native, or something else? let's connect.**</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  
+  <a href="https://twitter.com/shivayCDRx"> Twitter </a>
 </p>
 <h3 align="left">Programing Languages</h3
 
