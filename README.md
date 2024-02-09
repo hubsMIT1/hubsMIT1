@@ -5,7 +5,7 @@
 <img  align="right" alt="Coding"  width="400" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200.gif">
                                                   
 - 💬 Ask me about : <p>**ReactJS, TypeScript, JS , Tailwind/CSS, 
-DSA, MERN, Flask, React-Native, or something else? let's connect.**</p>
+DSA, NodeJS, Express, Django, Flask, React-Native, or something else? let's connect.**</p>
 
 - 💻 Platform :<p> **VS code, Linux, Android Studio,Git, Ubuntu**</p>
 
