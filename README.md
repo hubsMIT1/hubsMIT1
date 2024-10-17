@@ -2,7 +2,6 @@
 <h3 align="center">Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hubsmit1&label=Profile%20views&color=0e75b6&style=flat" alt="hubsmit1" /> </p>
-<img  align="right" alt="Coding"  width="400" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200.gif">
                                                   
 - 💬 About <p>**I'm ShivAnand Y, graduated from NIT TRICHY in 2024.<br /> Finding | learning | Solving.....<br/><br />Some Tech Skill:<br/>C++(DSA), React.js, TS, JS, Next.js, NodeJS, Python ,Django, Flask, GCP, AWS, Docker, Redis.**</p>
 
