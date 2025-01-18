@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hubsmit1&label=Profile%20views&color=0e75b6&style=flat" alt="hubsmit1" /> </p>
                                                   
-- 💬 About <p>**I'm ShivAnand Y, graduated from NIT TRICHY in 2024.<br /> Finding | learning | Solving.....<br/><br />Some Tech Skill:<br/>C++(DSA), React.js, TS, JS, Next.js, NodeJS, Python ,Django, Flask, GCP, AWS, Docker, Redis.**</p>
+- 💬 About <p>**I'm ShivAy, graduated from NIT TRICHY.<br /> Finding | learning | Solving.....<br/><br />Some Tech Skill:<br/>C++(DSA), React.js, TS, JS, Next.js, NodeJS, Python ,Django, Flask, GCP, AWS, Docker, Redis.**</p>
 
 - 💻 Platform :<p> **VS code, Linux, Android Studio,Git, Ubuntu**</p>
 
